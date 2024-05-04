@@ -1,6 +1,6 @@
 # Car Sales
 
-The "Car Sales" project is an application developed in JAVA with persistence in txt files using NetBeans. This application allows managing car maintenance, users, billing processes, and car customization, in addition to including security controls and generating reports.
+Automobile Sales and Customization.
 
 ## Description
 
