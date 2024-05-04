@@ -16,6 +16,9 @@ Furthermore, the application generates detailed reports on car sales, inventory 
 
 ## Technologies Used
 
-- JAVA - Programming language used for project development.
-- NetBeans - Integrated development environment (IDE) used for coding and compiling JAVA code.
+## Technologies Used
+
+- ![JAVA](https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=java&logoColor=white) JAVA - Programming language used for project development.
+- ![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white) NetBeans - Integrated development environment (IDE) used for coding and compiling JAVA code.
 - Txt files - Persistence mechanism used to store application data.
+
