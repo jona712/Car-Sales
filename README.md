@@ -4,17 +4,7 @@ The "Car Sales" project is an application developed in JAVA with persistence in 
 
 ## Description
 
-The "Car Sales" project is a comprehensive application for managing a car dealership. Developed in JAVA, this system offers functionalities covering all aspects of car sales, from inventory management to billing and vehicle customization.
-
-The application allows users to perform car maintenance operations, such as adding new vehicles to inventory, updating information on existing cars, and removing sold cars. It also includes user management functionalities, allowing the system administrator to create, edit, and delete user accounts, as well as set access permissions.
-
-Additionally, the system offers billing processes to record car sales, generate invoices, and perform financial transactions. Users can also customize cars according to customer preferences, such as choosing the color, model, and additional features of the vehicle.
-
-Regarding security, the system implements access controls to ensure that only authorized users can access certain functionalities and sensitive data.
-
-Furthermore, the application generates detailed reports on car sales, inventory performance, and other relevant aspects of the business, providing users with valuable information for decision-making.
-
-## Technologies Used
+The "Car Sales" project is a JAVA-based application developed in NetBeans with txt file persistence. It facilitates car maintenance, user management, billing processes, and vehicle customization for a dealership. Security controls are implemented, and detailed reports on sales and inventory are generated.
 
 ## Technologies Used
 
